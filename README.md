@@ -37,4 +37,4 @@ MIT Sloan MBA & MS Engineering Systems (Leaders for Global Operations) · Texas 
 Supervised ML & Advanced Learning Algorithms (DeepLearning.AI / Stanford) · SAFe SPC · CSPO · Lean Startup trainer
 
 #### Connect
-[LinkedIn](https://www.linkedin.com/in/danwalsh1115) · [Talks & decks on SlideShare](https://www.slideshare.net/danielawalsh)
+[LinkedIn](https://www.linkedin.com/in/danwalsh1115) · [X](https://x.com/danielwalsh) · [Talks & decks on SlideShare](https://www.slideshare.net/danielawalsh)
