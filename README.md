@@ -17,6 +17,7 @@ I build products that make large organizations run faster, and lately I build th
 |---|---|
 | Imubit (industrial AI) | Model development cycle time down 23% with a test-first "Product Landing Zone" evaluation approach for deep-learning process controllers |
 | ExxonMobil | Time to first value cut from 24 months to 6 across 12 product innovation teams |
+| Roche Genentech | Kanban workflow for drug-safety R&D in a regulated environment; coached 10 oncology teams (~60 scientists) and improved regulatory filing throughput |
 | Amazon (Blink) | Hardware/firmware/software teams shipping features ~20% faster through incremental delivery |
 | Intel | 300-person design org delivered 30% more scope, 30% faster, at no added cost; product owner for planning tools used by 8,000 employees |
 
