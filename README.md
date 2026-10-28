@@ -15,7 +15,7 @@ I build products that make large organizations run faster, and lately I build th
 #### Selected outcomes
 | Where | What changed |
 |---|---|
-| Imubit (industrial AI) | Model development cycle time down 23% with a test-first "Product Landing Zone" evaluation approach for deep-learning process controllers |
+| Imubit (industrial AI) | Model development cycle time down 23% with a test-first [Product Landing Zone](https://github.com/danwalsh1115/landing-zone) evaluation approach for deep-learning process controllers |
 | ExxonMobil | Time to first value cut from 24 months to 6 across 12 product innovation teams |
 | Roche Genentech | Kanban workflow for drug-safety R&D in a regulated environment; coached 10 oncology teams (~60 scientists) and improved regulatory filing throughput |
 | Amazon (Blink) | Hardware/firmware/software teams shipping features ~20% faster through incremental delivery |
@@ -25,6 +25,10 @@ I build products that make large organizations run faster, and lately I build th
 - **Builders collapse:** PMs, designers and engineers can now build working prototypes with AI, so I prototype before I write the spec
 - **Define "done" before building:** acceptance criteria and evaluation criteria first, especially for ML and AI features
 - **Test and iterate:** discovery, story mapping, and experiments with real users and real numbers
+
+#### Writing
+- **[The Landing Zone](https://github.com/danwalsh1115/landing-zone)**: a simple way to define product success as a range (Minimum, Target, Outstanding), with tutorial and template
+- **[When is a model "good enough"?](https://github.com/danwalsh1115/landing-zone/blob/main/blog/landing-zones-for-rl-model-evaluation.md)**: Landing Zones as evaluation criteria for reinforcement learning, from my work with model teams at Imubit
 
 #### Talks
 - **[Change isn't complicated… it's COMPLEX](https://github.com/danwalsh1115/complex-change)**: leading change with the Cynefin Framework (Stretch Leadership & Management Conference) · [video](https://www.youtube.com/watch?v=XbODQUYRm5A)
